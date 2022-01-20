@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import { ref } from "vue";
+import { ref  , onMounted } from "vue";
 export default {
   setup() {
     const toTop = () => {
@@ -16,14 +16,16 @@ export default {
     };
 
     const scroll = ref(null);
+onMounted(()=>{
+  window.addEventListener("scroll", function(){
+    if (window.scrollY > 500) {
+          scroll.value.style.opacity = 1;
+        } else {
+          scroll.value.style.opacity = 0;
+        }
+  })
+})
 
-    window.onscroll = function () {
-      if (window.scrollY > 500) {
-        scroll.value.style.opacity = 1;
-      } else {
-        scroll.value.style.opacity = 0;
-      }
-    };
 
     return {
       toTop,

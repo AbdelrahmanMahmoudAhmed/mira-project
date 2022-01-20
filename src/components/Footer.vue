@@ -1,5 +1,5 @@
 <template>
-  <div class="footer container">
+  <div class="footer">
     <div class="footer-content">
       <div class="footer-contnent-child">
         <div class="footer-logo">
@@ -89,6 +89,7 @@ export default {};
 
 <style lang="scss" >
 .footer {
+  padding: 0 50px;
   .footer-content {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
@@ -142,7 +143,7 @@ export default {};
   .footer-foot {
     border-top: 1px solid #f6f6f6;
     padding: 20px 0;
-    margin-top: 70px;
+    // margin-top: 70px;
     p {
       text-align: center;
       color: #626262;
@@ -154,6 +155,9 @@ export default {};
         }
       }
     }
+  }
+  @media (max-width: 991px) {
+    padding: 0 15px;
   }
 }
 </style>

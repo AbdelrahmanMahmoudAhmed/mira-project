@@ -50,7 +50,7 @@
               <td class="td-price the-total">
                 $
                 <span class="product-total"
-                  >{{ product.count * product.price }}
+                  >{{ (product.count * product.price).toFixed(2) }}
                 </span>
               </td>
             </tr>
@@ -77,11 +77,11 @@
               <div class="total-coast">
                 <div>
                   <span>Subtotal</span>
-                  <span>$ {{ this.totalPrice }}</span>
+                  <span>$ {{ this.totalPrice.toFixed(2) }}</span>
                 </div>
                 <div>
                   <span>total</span>
-                  <span>$ {{ this.totalPrice }} </span>
+                  <span>$ {{ this.totalPrice.toFixed(2) }} </span>
                 </div>
               </div>
               <div class="coast-button">
@@ -116,20 +116,25 @@ export default {
 
   mounted() {
     this.$store.commit("newPageTitle", "YOUR SHOPPING CART");
-    // this.$store.commit("updateCartFromLocalStorage");
-
+    this.$store.dispatch("updateCartFromLocalStorage");
     this.myProducts = this.$store.state.myProducts;
     window.scrollTo(0, 0);
     const calcTotal = () => {
       this.totalPrice = this.myProducts.reduce((curr, acc) => {
         return curr + acc.price * acc.count;
       }, 0);
+    
     };
+          console.log( this.totalPrice);
 
-    calcTotal();
+
+    calcTotal() ;
+   console.log(typeof this.totalPrice)
   },
   updated() {
     this.myProducts = this.$store.state.myProducts;
+    console.log(localStorage.getItem("cart"))
+
   },
   methods: {
     deleteProduct(e) {

@@ -638,5 +638,28 @@
         }
         
             
+    ],
+    "members": [
+        {
+            "id":1,
+            "name":"nirob khan",
+            "role": "admin",
+            "pic" : "team-1.jpg",
+            "p": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer condimentum"
+        },
+        {
+            "id":2,
+            "name":"mamun khan",
+            "role": "web developer",
+            "pic" : "team-2.jpg",
+            "p": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer condimentum"
+        },
+        {
+            "id":3,
+            "name":"musa khan",
+            "role": "shopify expert",
+            "pic" : "team-3.jpg",
+            "p": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer condimentum"
+        }
     ]
 }

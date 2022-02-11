@@ -1,0 +1,542 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "img": "bag.jpg",
+            "productTitle": "bag",
+            "sale": true,
+            "currentPrice": 181.42,
+            "oldPrice": 209.33,
+            "quickOverview": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+            "colors": [
+                "#fbf232",
+                "#000",
+                "#a52b2a",
+                "#808080",
+                "#e36dfe"
+            ],
+            "size": [],
+            "material": [
+                "partex",
+                "wood",
+                "glass"
+            ]
+        },
+        {
+            "id": 2,
+            "img": "cap.jpg",
+            "productTitle": "Black Head Cap",
+            "sale": true,
+            "currentPrice": 139.56,
+            "oldPrice": null,
+            "quickOverview": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution.",
+            "colors": [],
+            "size": [
+                "xs",
+                "s",
+                "l",
+                "xl"
+            ],
+            "material": []
+        },
+        {
+            "id": 3,
+            "img": "bowtie.jpg",
+            "productTitle": "Coat Tai",
+            "sale": true,
+            "currentPrice": 140.79,
+            "oldPrice": 168.94,
+            "quickOverview": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+            "colors": [
+                "#f00",
+                "#c8a165",
+                "#00f",
+                "#fff",
+                "#ffff00"
+            ],
+            "size": [
+                "xs",
+                "s",
+                "l",
+                "xl",
+                "xxl",
+                "xxxl"
+            ],
+            "material": [
+                "partex",
+                "wood",
+                "glass"
+            ]
+        },
+        {
+            "id": 4,
+            "img": "glasses.jpg",
+            "productTitle": "Colorful Glass",
+            "sale": false,
+            "currentPrice": 70.39,
+            "oldPrice": null,
+            "quickOverview": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution.",
+            "colors": [
+                "#fbf232",
+                "#000",
+                "#a52b2a",
+                "#808080",
+                "#e36dfe"
+            ],
+            "size": [],
+            "material": [
+                "partex",
+                "wood",
+                "glass"
+            ]
+        },
+        {
+            "id": 5,
+            "img": "belt.jpg",
+            "productTitle": "bult",
+            "sale": true,
+            "currentPrice": 112.63,
+            "oldPrice": null,
+            "quickOverview": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+            "colors": [
+                "#fbf232",
+                "#000",
+                "#a52b2a",
+                "#808080",
+                "#e36dfe"
+            ],
+            "size": [
+                "xs",
+                "s",
+                "l",
+                "xl",
+                "xxl",
+                "xxxl"
+            ],
+            "material": [
+                "partex",
+                "wood",
+                "glass"
+            ]
+        },
+        {
+            "id": 6,
+            "img": "hat.jpg",
+            "productTitle": "hat",
+            "sale": false,
+            "currentPrice": 84.47,
+            "oldPrice": null,
+            "quickOverview": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+            "colors": [
+                "#ffd700",
+                "#808080",
+                "#ff00ff",
+                "#ffa500"
+            ],
+            "size": [
+                "xs",
+                "s",
+                "l",
+                "xl"
+            ],
+            "material": []
+        },
+        {
+            "id": 7,
+            "img": "socks.jpg",
+            "productTitle": "socks",
+            "sale": false,
+            "currentPrice": 112.63,
+            "oldPrice": null,
+            "quickOverview": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+            "colors": [
+                "#fbf232",
+                "#000",
+                "#a52b2a",
+                "#808080",
+                "#e36dfe"
+            ],
+            "size": [
+                "xs",
+                "s",
+                "l",
+                "xl",
+                "xxl",
+                "xxxl"
+            ],
+            "material": [
+                "partex",
+                "wood",
+                "glass"
+            ]
+        },
+        {
+            "id": 8,
+            "img": "boot.jpg",
+            "productTitle": "boot",
+            "sale": true,
+            "currentPrice": 111.22,
+            "oldPrice": 115.441,
+            "quickOverview": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+            "colors": [
+                "#fbf232",
+                "#000",
+                "#a52b2a",
+                "#808080",
+                "#e36dfe"
+            ],
+            "size": [
+                "s",
+                "l",
+                "xl",
+                "xxl"
+            ],
+            "material": [
+                "partex",
+                "wood",
+                "glass"
+            ]
+        },
+        {
+            "id": 9,
+            "img": "watch.jpg",
+            "productTitle": "watch",
+            "sale": false,
+            "currentPrice": 79.12,
+            "oldPrice": null,
+            "quickOverview": "TIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution.",
+            "colors": [],
+            "size": [],
+            "material": []
+        },
+        {
+            "id": 10,
+            "img": "high-heels.jpg",
+            "productTitle": "heels",
+            "sale": false,
+            "currentPrice": 70.39,
+            "oldPrice": null,
+            "quickOverview": "TIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution.",
+            "colors": [],
+            "size": [
+                "s",
+                "l",
+                "xl"
+            ],
+            "material": []
+        },
+        {
+            "id": 11,
+            "img": "t-shirt.jpg",
+            "productTitle": "t-shirt",
+            "sale": true,
+            "currentPrice": 181.42,
+            "oldPrice": 209.33,
+            "quickOverview": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+            "colors": [
+                "#fbf232",
+                "#000",
+                "#a52b2a",
+                "#808080",
+                "#e36dfe"
+            ],
+            "size": [
+                "xs",
+                "s",
+                "l",
+                "xl",
+                "xxl",
+                "xxxl"
+            ],
+            "material": [
+                "partex",
+                "wood",
+                "glass"
+            ]
+        },
+        {
+            "id": 12,
+            "img": "cap.jpg",
+            "productTitle": "Black Head Cap",
+            "sale": true,
+            "currentPrice": 139.56,
+            "oldPrice": null,
+            "quickOverview": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution.",
+            "colors": [],
+            "size": [],
+            "material": []
+        },
+        {
+            "id": 13,
+            "img": "bowtie.jpg",
+            "productTitle": "Coat Tai",
+            "sale": true,
+            "currentPrice": 140.79,
+            "oldPrice": 168.94,
+            "quickOverview": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+            "colors": [
+                "#f00",
+                "#c8a165",
+                "#00f",
+                "#fff",
+                "#ffff00"
+            ],
+            "size": [
+                "xs",
+                "s",
+                "l",
+                "xl",
+                "xxl",
+                "xxxl"
+            ],
+            "material": [
+                "partex",
+                "wood",
+                "glass"
+            ]
+        },
+        {
+            "id": 14,
+            "img": "glasses.jpg",
+            "productTitle": "Colorful Glass",
+            "sale": false,
+            "currentPrice": 70.39,
+            "oldPrice": null,
+            "quickOverview": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution.",
+            "colors": [
+                "#fbf232",
+                "#000",
+                "#a52b2a",
+                "#808080",
+                "#e36dfe"
+            ],
+            "size": [],
+            "material": []
+        },
+        {
+            "id": 15,
+            "img": "belt.jpg",
+            "productTitle": "bult",
+            "sale": true,
+            "currentPrice": 112.63,
+            "oldPrice": null,
+            "quickOverview": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+            "colors": [
+                "#fbf232",
+                "#000",
+                "#a52b2a",
+                "#808080",
+                "#e36dfe"
+            ],
+            "size": [
+                "xs",
+                "s",
+                "l",
+                "xl",
+                "xxl",
+                "xxxl"
+            ],
+            "material": [
+                "partex",
+                "wood",
+                "glass"
+            ]
+        },
+        {
+            "id": 16,
+            "img": "hat.jpg",
+            "productTitle": "hat",
+            "sale": false,
+            "currentPrice": 84.47,
+            "oldPrice": null,
+            "quickOverview": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+            "colors": [
+                "#ffd700",
+                "#808080",
+                "#ff00ff",
+                "#ffa500"
+            ],
+            "size": [
+                "l",
+                "xl",
+                "xxl"
+            ],
+            "material": []
+        },
+        {
+            "id": 17,
+            "img": "socks.jpg",
+            "productTitle": "socks",
+            "sale": false,
+            "currentPrice": 112.63,
+            "oldPrice": null,
+            "quickOverview": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+            "colors": [
+                "#fbf232",
+                "#000",
+                "#a52b2a",
+                "#808080",
+                "#e36dfe"
+            ],
+            "size": [
+                "xs",
+                "s",
+                "l",
+                "xl",
+                "xxl",
+                "xxxl"
+            ],
+            "material": [
+                "partex",
+                "wood",
+                "glass"
+            ]
+        },
+        {
+            "id": 18,
+            "img": "boot.jpg",
+            "productTitle": "boot",
+            "sale": true,
+            "currentPrice": 111.22,
+            "oldPrice": 115.441,
+            "quickOverview": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+            "colors": [
+                "#fbf232",
+                "#000",
+                "#a52b2a",
+                "#808080",
+                "#e36dfe"
+            ],
+            "size": [
+                "l",
+                "xl",
+                "xxl"
+            ],
+            "material": [
+                "partex",
+                "wood",
+                "glass"
+            ]
+        },
+        {
+            "id": 19,
+            "img": "watch.jpg",
+            "productTitle": "watch",
+            "sale": false,
+            "currentPrice": 79.12,
+            "oldPrice": null,
+            "quickOverview": "TIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution.",
+            "colors": [],
+            "size": [],
+            "material": []
+        },
+        {
+            "id": 20,
+            "img": "high-heels.jpg",
+            "productTitle": "heels",
+            "sale": false,
+            "currentPrice": 70.39,
+            "oldPrice": null,
+            "quickOverview": "TIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution.",
+            "colors": [],
+            "size": [
+                "l",
+                "xl",
+                "xxl"
+            ],
+            "material": []
+        },
+        {
+            "id": 21,
+            "img": "t-shirt.jpg",
+            "productTitle": "t-shirt",
+            "sale": true,
+            "currentPrice": 181.42,
+            "oldPrice": 209.33,
+            "quickOverview": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+            "colors": [
+                "#fbf232",
+                "#000",
+                "#a52b2a",
+                "#808080",
+                "#e36dfe"
+            ],
+            "size": [
+                "xs",
+                "s",
+                "l",
+                "xl",
+                "xxl",
+                "xxxl"
+            ],
+            "material": [
+                "partex",
+                "wood",
+                "glass"
+            ]
+        },
+        {
+            "id": 22,
+            "img": "cap.jpg",
+            "productTitle": "Black Head Cap",
+            "sale": true,
+            "currentPrice": 139.56,
+            "oldPrice": null,
+            "quickOverview": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution.",
+            "colors": [],
+            "size": [],
+            "material": []
+        },
+        {
+            "id": 23,
+            "img": "bowtie.jpg",
+            "productTitle": "Coat Tai",
+            "sale": true,
+            "currentPrice": 140.79,
+            "oldPrice": 168.94,
+            "quickOverview": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+            "colors": [
+                "#f00",
+                "#c8a165",
+                "#00f",
+                "#fff",
+                "#ffff00"
+            ],
+            "size": [],
+            "material": [
+                "partex",
+                "wood",
+                "glass"
+            ]
+        },
+        {
+            "id": 24,
+            "img": "glasses.jpg",
+            "productTitle": "Colorful Glass",
+            "sale": false,
+            "currentPrice": 70.39,
+            "oldPrice": null,
+            "quickOverview": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution.",
+            "colors": [
+                "#fbf232",
+                "#000",
+                "#a52b2a",
+                "#808080",
+                "#e36dfe"
+            ],
+            "size": [
+                "xs",
+                "s",
+                "l",
+                "xl",
+                "xxl",
+                "xxxl"
+            ],
+            "material": [
+                "partex",
+                "wood",
+                "glass"
+            ]
+        }
+    ]
+}

@@ -7,6 +7,7 @@ import Account from '../views/Account.vue'
 import Contact from '../views/Contact.vue'
 import JustProduct from '../views/JustProduct.vue'
 import JustBlog from '../views/JustBlog.vue'
+import WishList from "../views/WishList.vue"
 
 import Cart from '../views/Cart.vue'
 
@@ -33,7 +34,7 @@ const routes = [
     path: '/blog/:id',
     name: 'JustBlog',
     component: JustBlog,
-    props: true ,
+    props: true,
   },
   {
     path: '/about',
@@ -64,7 +65,12 @@ const routes = [
     path: '/products/:id',
     name: 'JustProduct',
     component: JustProduct,
-    props: true ,
+    props: true,
+  },
+  {
+    path: '/wish-list',
+    name: 'WishList',
+    component: WishList
   },
 ]
 
